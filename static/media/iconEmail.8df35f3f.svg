@@ -1,0 +1,16 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="16.91" height="12.08" viewBox="0 0 16.91 12.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a79545;
+      }
+    </style>
+  </defs>
+  <title>iconos Diego</title>
+  <g>
+    <path class="cls-1" d="M8.46,8.46,6.36,6.63l-6,5.12a1.2,1.2,0,0,0,.84.33H15.7a1.19,1.19,0,0,0,.83-.33l-6-5.12Z"/>
+    <path class="cls-1" d="M16.53.33A1.17,1.17,0,0,0,15.7,0H1.22A1.21,1.21,0,0,0,.38.33L8.46,7.25Z"/>
+    <polygon class="cls-1" points="0 1.06 0 11.1 5.84 6.13 0 1.06"/>
+    <polygon class="cls-1" points="11.08 6.13 16.91 11.1 16.91 1.06 11.08 6.13"/>
+  </g>
+</svg>

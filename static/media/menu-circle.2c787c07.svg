@@ -1,0 +1,25 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="48.5" height="48.5" viewBox="0 0 48.5 48.5">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <title>circulo menú-01</title>
+  <g>
+    <path class="cls-1" d="M8.25,9.58h32v32h-32Z"/>
+    <path class="cls-2" d="M12.25,31.58h24v-.66h-24Zm0-6.66h24v-.67h-24Zm0-7.34v.67h24v-.67Z"/>
+  </g>
+  <circle class="cls-3" cx="24.25" cy="24.25" r="24"/>
+</svg>
